@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Demo</string>
+    <string name="str_tv_message">%1$d Celsius</string>
 </resources>
